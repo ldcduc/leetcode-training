@@ -14,23 +14,33 @@
  */
 class Solution {
 public:
-    vector<vector<int>> result;
-    vector<int> path;
+    int result = 0;
+    int givenSum;
+    vector<int> sumsAlongThePath;
 
     void visit(TreeNode* node, int sum) {
         if (node != NULL) {
-            path.push_back(node->val);
-            if (node->left == NULL && node->right == NULL && sum - node->val == 0) {
-                result.push_back(path);
-            } else {
-                visit(node->left, sum - node->val);
-                visit(node->right, sum - node->val);
+            sum += node->val;
+            // Calculate the result
+            for (auto s : sumsAlongThePath) {
+                result += (sum - s == givenSum);
             }
-            path.pop_back();
+            // End
+            sumsAlongThePath.push_back(sum);
+
+            if (node->left == NULL && node->right == NULL) {
+
+            } else {
+                visit(node->left, sum);
+                visit(node->right, sum);
+            }
+            sumsAlongThePath.pop_back();
         }
     }
-    vector<vector<int>> pathSum(TreeNode* root, int sum) {
-        visit(root, sum);
+    int pathSum(TreeNode* root, int sum) {
+        givenSum = sum;
+        sumsAlongThePath.push_back(0);
+        visit(root, 0);
         return result;
     }
 };
