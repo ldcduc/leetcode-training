@@ -1,0 +1,18 @@
+/* Problem url: https://leetcode.com/problems/single-number
+ * Code by: ldcduc
+ * */
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        int result = 0;
+        for (auto num : nums) {
+            result ^= num;
+        }
+        return result;
+    }
+};
+/*
+ * Comment by ldcduc
+ * Suggested tags: math, fun
+ * 
+ * */
