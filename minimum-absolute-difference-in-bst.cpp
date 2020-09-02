@@ -1,4 +1,4 @@
-/* Problem url: https://leetcode.com/problems/arranging-coins/
+/* Problem url: https://leetcode.com/problems/minimum-absolute-difference-in-bst
  * Code by: ldcduc
  * */
 /**
@@ -40,12 +40,13 @@ public:
         }
         return result;
     }
-    int minDiffInBST(TreeNode* root) {
+    int getMinimumDifference(TreeNode* root) {
         return visit(root);
     }
 };
 /*
  * Comment by ldcduc
- * Suggested tags: math, careful
+ * Suggested tags: binary search tree
  * 
  * */
+

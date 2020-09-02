@@ -1,4 +1,4 @@
-/* Problem url: https://leetcode.com/problems/arranging-coins/
+/* Problem url: https://leetcode.com/problems/minimum-distance-between-bst-nodes
  * Code by: ldcduc
  * */
 /**
@@ -46,6 +46,7 @@ public:
 };
 /*
  * Comment by ldcduc
- * Suggested tags: math, careful
+ * Suggested tags: binary search tree
  * 
  * */
+
