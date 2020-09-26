@@ -1,6 +1,23 @@
 /* Problem url: https://leetcode.com/problems/pascals-triangle-ii
  * Code by: ldcduc
  * */
+class RecursiveSolution {
+public:
+    vector<int> getRow(int rowIndex) {
+        if (rowIndex) {
+            vector<int> result = getRow(rowIndex - 1);
+            for (int i = 1, prev = 1; i < result.size(); ++ i) {
+                prev += result[i];
+                swap(prev, result[i]);
+            }
+            result.push_back(1);
+            return result;
+        } else {
+            return vector<int> {1};
+        }
+    }
+};
+
 class Solution {
 public:
     vector<int> getRow(int rowIndex) {
