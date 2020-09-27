@@ -4,6 +4,23 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
+        set<int> s;
+        for (auto num : nums) {
+            s.insert(num);
+        }
+        if (s.size() < 3) {
+            return *(s.rbegin());
+        }
+        set<int>::reverse_iterator it = s.rbegin();
+        ++ it;
+        ++ it;
+        return *it;
+    }
+};
+
+class LongSolution {
+public:
+    int thirdMax(vector<int>& nums) {
         long long first = -(1ll << 32), second = -(1ll << 32), third = -(1ll << 32);    
         bool found = false;
         for (int i = 0; i < nums.size(); ++ i) {
