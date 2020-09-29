@@ -23,30 +23,36 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+class RecursiveSolution {
+public:
+    void visit(vector<int> &result, TreeNode* root) {
+        if (root) {
+            visit(result, root->left);
+            result.push_back(root->val);
+            visit(result, root->right);
+        }
+    }
+    vector<int> inorderTraversal(TreeNode* root) {
+        vector<int> result;
+        visit(result, root);
+        return result;
+    }
+};
+class IterativeSolution { // This solution does not modify the tree
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> result;
-        stack<TreeNode*> stack_;
-        if (root) {
-            TreeNode* node;
-            stack_.push(root);
-            while (!stack_.empty()) {
-                node = stack_.top();
-                while (node->left != NULL) {
-                    stack_.push(node->left);
-                    node->left = NULL;
-                    node = stack_.top();
-                }
-
-                node = stack_.top();
-                result.push_back(node->val);
-                stack_.pop();
-
-                if (node->right != NULL) {
-                    stack_.push(node->right);
-                }
+        stack<TreeNode*> S;
+        TreeNode* cur = root;
+        while (cur || !S.empty()) {
+            while (cur) {
+                S.push(cur);
+                cur = cur->left;
             }
+            cur = S.top();
+            S.pop();
+            result.push_back(cur->val);
+            cur = cur->right;
         }
         return result;
     }

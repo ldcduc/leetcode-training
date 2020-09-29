@@ -1,6 +1,7 @@
-/* Problem url: https://leetcode.com/problems/path-sum/
+/* Problem url: https://leetcode.com/problems/same-tree
  * Code by: ldcduc
  * */
+/* Begin of Solution */
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -14,16 +15,20 @@
  */
 class Solution {
 public:
-    bool hasPathSum(TreeNode* root, int sum) {
-        if (root) {
-            return root->left == NULL && root->right == NULL ? sum - root->val == 0 : hasPathSum(root->left, sum - root->val) || hasPathSum(root->right, sum - root->val);
+    bool check(TreeNode* p, TreeNode* q) {
+        if (p && q) {
+            return p->val == q->val ? check(p->left, q->left) && check(p->right, q->right) : false;
+        } else {
+            return (p == NULL) == (q == NULL);
         }
-        return false;
+    }
+    bool isSameTree(TreeNode* p, TreeNode* q) {
+        return check(p, q);    
     }
 };
+/* End of Solution */
 /*
  * Comment by ldcduc
- * Suggested tags: binary search tree
+ * Suggested tags: recursion
  * 
  * */
-

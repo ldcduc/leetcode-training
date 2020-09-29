@@ -3,29 +3,27 @@
  * */
 class Solution {
 public:
-    vector<string> result;
-    string s;
-
-    void generate(int index, int open, int n) {
+    void recursion(vector<string> &result, string &pattern, int n, int index, int cntOpen = 0) {
         if (index == n) {
-            result.push_back(s);
-        } else if (n - index >= open) {
-            if (n - index > open) {
-                s[index] = '(';
-                generate(index + 1, open + 1, n);
+            if (cntOpen == 0) {
+                result.push_back(pattern);
             }
-            if (open > 0) {
-                s[index] = ')';
-                generate(index + 1, open - 1, n);
-            }
+            return;
+        }
+        if (index + cntOpen - 1 < n) {
+            pattern[index] = '(';
+            recursion(result, pattern, n, index + 1, cntOpen + 1);
+        }
+        if (cntOpen) {
+            pattern[index] = ')';
+            recursion(result, pattern, n, index + 1, cntOpen - 1);
         }
     }
     vector<string> generateParenthesis(int n) {
-        n *= 2;
-        for (int i = 0; i < n; ++ i) {
-            s.push_back(' ');
-        }
-        generate(0, 0, n);
+        vector<string> result;
+        string pattern;
+        pattern.resize(2 * n);
+        recursion(result, pattern, 2 * n, 0);
         return result;
     }
 };
