@@ -28,3 +28,5 @@ You can make your own alias by adding the line to your `~/.bash_profile`
 ```bash
 alias [your_command_alias]='bash /path/to/this/repo/create_source_code_file.sh'
 ``` 
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ldcduc.leetcode-training)
