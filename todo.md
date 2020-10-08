@@ -2,10 +2,13 @@
 
 ## Easy problems
 
+* [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)
 * [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 * [575. Distribute Candies](https://leetcode.com/problems/distribute-candies)
 * [690. Employee Importance](https://leetcode.com/problems/employee-importance)
+* [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation)
+* [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)
 
 ## Medium problems
 
@@ -31,9 +34,11 @@
 * [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
 * [954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs)
 * [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border)
+* [**1111. Maximum Nesting Depth of Two Valid Parentheses Strings**](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)
 * [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps)
 * [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string)
 * [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)
+* [1472. Design Browser History](https://leetcode.com/problems/design-browser-history)
 
 
 ## Hard problems
@@ -49,13 +54,16 @@
 * [780. Reaching Points](https://leetcode.com/problems/reaching-points)
 * [805. Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average)
 * [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)
+* [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination)
 * [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)
 
 ## Today
 
+* [148. Sort List](https://leetcode.com/problems/sort-list)
 * [401. Binary Watch](https://leetcode.com/problems/binary-watch)
 * [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)
 * [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)
+* [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers)
 * [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)
 * [1156. Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring)
 
