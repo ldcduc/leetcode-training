@@ -1,4 +1,4 @@
-/* Problem url: https://leetcode.com/problems/remove-duplicates-from-sorted-list
+/* Problem url: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
  * Code by: ldcduc
  * */
 /* Begin of Solution */
@@ -16,6 +16,9 @@ class RecursiveSolution {
 public:
     ListNode* recursion(ListNode* node, int last_val) {
         if (node) {
+            if (node->next && node->val == node->next->val) {
+                last_val = node->val;
+            }
             node->next = recursion(node->next, node->val);
             if (node->val == last_val) {
                 ListNode* tmp = node;
@@ -24,32 +27,39 @@ public:
             }
         }
         return node;
-    }
+    } 
     ListNode* deleteDuplicates(ListNode* head) {
-        return recursion(head, -100 - 1);
+        return recursion(head, -100 - 1);    
     }
 };
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
+        int last_val = -100 - 1;
+        ListNode* prev = NULL;
         ListNode* node = head;
-        ListNode* prev_node = NULL;
-        if (head) {
-            prev_node = head;
-            node = head->next;
-        }
         while (node) {
-            if (node->val == prev_node->val) {
-                // Need to delete this node
-                ListNode* next_node = node->next;
-                prev_node->next = next_node; 
-                delete node;
-                node = next_node;
+            if (node->next && node->next->val == node->val) {
+                last_val = node->val;
+            }
+            if (last_val == node->val) { // This node need to be deleted
+                if (head == node) {
+                    head = node->next;
+                    delete node;
+                    node = head;
+                } else {
+                    ListNode* tmp = node;
+                    node = node->next;
+                    delete tmp;
+                    if (prev != NULL) {
+                        prev->next = node;
+                    }
+                }
             } else {
-                prev_node = node;
+                prev = node;
                 node = node->next;
             }
-        } 
+        }
         return head;
     }
 };
