@@ -65,6 +65,9 @@
 * [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers)
 * [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)
 * [1156. Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring)
+* [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node)
+* [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)
+* [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)
 
 ## Sql
 
@@ -103,7 +106,7 @@
 * [ ] - [55. Jump Game](https://leetcode.com/problems/jump-game)
 * [ ] - [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
 * [ ] - [221. Maximal Square](https://leetcode.com/problems/maximal-square)  
-&n[ ] - bsp;
+&nbsp;
 * [ ] - [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 
 </details>
@@ -326,7 +329,7 @@
 * [ ] - [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals)
 * [ ] - [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)
 * [ ] - [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)
-* [ ] - [61. Rotate List](https://leetcode.com/problems/rotate-list)
+* [ ] - [61. Rotate List](https://leetcode.com/problems/rotate-list)  
 &nbsp;
 * [ ] - [704. Binary Search](https://leetcode.com/problems/binary-search)
 * [ ] - [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
@@ -334,7 +337,7 @@
 * [ ] - [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters)
 * [ ] - [859. Buddy Strings](https://leetcode.com/problems/buddy-strings)
 * [ ] - [148. Sort List](https://leetcode.com/problems/sort-list)
-* [ ] - [213. House Robber II](https://leetcode.com/problems/house-robber-ii)
+* [ ] - [213. House Robber II](https://leetcode.com/problems/house-robber-ii)  
 &nbsp;
 * [ ] - [189. Rotate Array](https://leetcode.com/problems/rotate-array)
 * [ ] - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
@@ -342,7 +345,7 @@
 * [ ] - [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
 * [ ] - [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)
 * [ ] - [133. Clone Graph](https://leetcode.com/problems/clone-graph)
-* [ ] - [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
+* [ ] - [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision)  
 &nbsp;
 * [ ] - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
 * [ ] - [132 Pattern](https://leetcode.com/problems/132-pattern)
@@ -350,11 +353,11 @@
 * [ ] - [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv)
 * [ ] - [799. Champagne Tower](https://leetcode.com/problems/champagne-tower)
 * [ ] - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
-* [ ] - [228. Summary Ranges](https://leetcode.com/problems/summary-ranges)
+* [ ] - [228. Summary Ranges](https://leetcode.com/problems/summary-ranges)  
 &nbsp;
 * [ ] - [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)
 * [ ] - [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)
-* [ ] - [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)
+* [ ] - [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)  
 
 </details>
 
@@ -368,7 +371,7 @@
 * [ ] - [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)
 * [ ] - [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position)
 * [ ] - [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)
-* [ ] - [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii)
+* [ ] - [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii)  
 &nbsp;
 * [ ] - [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)
 * [ ] - [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)
@@ -376,7 +379,7 @@
 * [ ] - [593. Valid Square](https://leetcode.com/problems/valid-square)
 * [ ] - [47. Permutations II](https://leetcode.com/problems/permutations-ii)
 * [ ] - [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)
-* [ ] - [458. Poor Pigs](https://leetcode.com/problems/poor-pigs)
+* [ ] - [458. Poor Pigs](https://leetcode.com/problems/poor-pigs)  
 &nbsp;
 * [ ] - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
 * [ ] - [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array)
@@ -384,7 +387,7 @@
 * [ ] - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)
 * [ ] - [394. Decode String](https://leetcode.com/problems/decode-string)
 * [ ] - [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)
-* [ ] - [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)
+* [ ] - [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)  
 &nbsp;
 * [ ] - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)
 * [ ] - [337. House Robber III](https://leetcode.com/problems/house-robber-iii)
@@ -392,10 +395,10 @@
 * [ ] - [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k)
 * [ ] - [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)
 * [ ] - [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
-* [ ] - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
+* [ ] - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)  
 &nbsp;
 * [ ] - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii)
-* [ ] - [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem)
+* [ ] - [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem)  
 
 </details>
 
@@ -404,6 +407,59 @@
 
 <details close><summary>December</summary>
 
-* [ ] - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+* [x] - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+* [x] - [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node)
+* [x] - [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)
+* [x] - [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n)
+* [x] - [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
+* [ ] - [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)
+* [x] - [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)  
+&nbsp;
+* [ ] - [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)
+* [ ] - [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)
+* [ ] - [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)
+* [ ] - [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
+* [ ] - [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes)
+* [ ] - [312. Burst Balloons](https://leetcode.com/problems/burst-balloons)
+* [ ] - [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)  
+&nbsp;
+* [ ] - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
+* [ ] - [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+* [ ] - [454. 4Sum II](https://leetcode.com/problems/4sum-ii)
+* [ ] - [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)
+* [ ] - [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii)
+* [ ] - [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index)
+* [ ] - [910. Smallest Range II](https://leetcode.com/problems/smallest-range-ii)  
+&nbsp;  
+* [x] - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+* [ ] - [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii)
+* [ ] - [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
+* [ ] - [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)
+* [ ] - [91. Decode Ways](https://leetcode.com/problems/decode-ways)
+* [ ] - [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv)
+* [ ] - [754. Reach a Number](https://leetcode.com/problems/reach-a-number)  
+&nbsp;
+* [ ] - [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree)
+* [ ] - [289. Game of Life](https://leetcode.com/problems/game-of-life)
+* [x] - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)  
+
+</details>
+
+## Monthly Challanges 2021
+
+### January
+
+<details close><summary>January</summary>
+
+* [x] - [1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation)
+* [x] - [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
+* [x] - [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement)
+* [x] - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+* [x] - [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)
+* [x] - [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)
+* [x] - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+* [x] - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
+* [x] - [127. Word Ladder](https://leetcode.com/problems/word-ladder)
+* [x] - [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions)
 
 </details>
