@@ -457,9 +457,12 @@
 * [x] - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 * [x] - [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)
 * [x] - [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)
-* [x] - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+* [x] - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  
+&nbsp;
 * [x] - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
 * [x] - [127. Word Ladder](https://leetcode.com/problems/word-ladder)
 * [x] - [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions)
+* [x] - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+* [x] - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 
 </details>
