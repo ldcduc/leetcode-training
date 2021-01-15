@@ -2,8 +2,6 @@
 
 ## Easy problems
 
-* [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
-* [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)
 * [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 * [575. Distribute Candies](https://leetcode.com/problems/distribute-candies)
 * [690. Employee Importance](https://leetcode.com/problems/employee-importance)
@@ -464,5 +462,7 @@
 * [x] - [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions)
 * [x] - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 * [x] - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+* [x] - [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people)
+* [x] - [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero)
 
 </details>
