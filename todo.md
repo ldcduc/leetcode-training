@@ -463,8 +463,11 @@
 * [x] - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 * [x] - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 * [x] - [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people)
-* [x] - [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero)
+* [x] - [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero)  
+&nbsp;
 * [x] - [1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array)
 * [x] - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+* [x] - [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings)
+* [x] - [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)
 
 </details>

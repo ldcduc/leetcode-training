@@ -5,20 +5,22 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        vector<int> cnt(3, 0);
-        for (int i = 0; i < nums.size(); ++ i) {
-            ++ cnt[nums[i]];
-        }
-        for (int i = 0; i < nums.size(); ++ i) {
-            if (cnt[0]) {
-                nums[i] = 0;
-                -- cnt[0];
-            } else if (cnt[1]) {
-                nums[i] = 1;
-                -- cnt[1];
+        int start = 0, end = nums.size() - 1;
+        for (int i = 0; i <= end; ) {
+            if (nums[i] == 0) {
+                if (i > start) {
+                    swap(nums[i], nums[start ++]);
+                } else {
+                    ++ i;
+                }
+            } else if (nums[i] == 1) {
+                ++ i;
             } else {
-                nums[i] = 2;
-                -- cnt[2];
+                if (i < end) {
+                    swap(nums[i], nums[end --]);
+                } else {
+                    ++ i;
+                }
             }
         }
     }
@@ -26,6 +28,6 @@ public:
 /* End of Solution */
 /*
  * Comment by ldcduc
- * Suggested tags: sorting, counting
+ * Suggested tags: sorting, inplace sort
  * 
  * */
