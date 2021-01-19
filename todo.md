@@ -66,6 +66,7 @@
 * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node)
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)
+* [730. Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences)
 
 ## Sql
 
@@ -469,5 +470,6 @@
 * [x] - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 * [x] - [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings)
 * [x] - [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)
+* [x] - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 
 </details>
