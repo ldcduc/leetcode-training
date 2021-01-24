@@ -12,6 +12,42 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+class Comparator {
+public:
+    bool operator() (ListNode* x, ListNode* y) {
+        return (x && y) ? x->val >= y->val : false;
+    }
+};
+
+class Solution {
+private:
+    priority_queue<ListNode*, vector<ListNode*>, Comparator> Q;
+public:
+
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        ListNode* head = NULL, * prev;
+        for (int i = 0; i < lists.size(); ++ i) {
+            ListNode* node = lists[i];
+            while (node) {
+                Q.push(node);
+                node = node->next;
+            }
+        }
+        while (!Q.empty()) {
+            ListNode* node = Q.top();
+            Q.pop();
+            node->next = NULL;
+            if (head) {
+                prev->next = node;
+            } else {
+                head = node;
+            }
+            prev = node;
+        }
+        return head;
+    }
+};
+// Another Solution
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
