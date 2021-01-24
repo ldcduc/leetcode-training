@@ -471,5 +471,11 @@
 * [x] - [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings)
 * [x] - [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)
 * [x] - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+* [x] - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+* [x] - [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence)  
+&nbsp;  
+* [x] - [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)
+* [x] - [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)  
+* [x] - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
 </details>
