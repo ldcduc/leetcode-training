@@ -6,11 +6,20 @@
 * [575. Distribute Candies](https://leetcode.com/problems/distribute-candies)
 * [690. Employee Importance](https://leetcode.com/problems/employee-importance)
 * [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation)
-* [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)
+* [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)  
+&nbsp;  
+* [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+* [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
+* [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables)
+* [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)
+* [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails)
+* [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)
+* [38. Count and Say](https://leetcode.com/problems/count-and-say)
+* [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)
 
 ## Medium problems
 
-* [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest)
+* [**16. 3Sum Closest**](https://leetcode.com/problems/3sum-closest)
 * [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors)
 * [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)
@@ -36,7 +45,14 @@
 * [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps)
 * [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string)
 * [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)
-* [1472. Design Browser History](https://leetcode.com/problems/design-browser-history)
+* [1472. Design Browser History](https://leetcode.com/problems/design-browser-history)  
+&nbsp;  
+* [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
+* [621. Task Scheduler](https://leetcode.com/problems/task-scheduler)
+* [825. Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages)
+* [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget)
+* [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers)
+* [1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k)
 
 
 ## Hard problems
@@ -52,7 +68,16 @@
 * [805. Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average)
 * [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)
 * [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination)
-* [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)
+* [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)  
+&nbsp;  
+* [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)
+* [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists)
+* [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys)
+* [891. Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths)
+* [1250. Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array)
+* [1595. Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points)
+
+
 
 ## Today
 
@@ -62,11 +87,16 @@
 * [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)
 * [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers)
 * [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)
-* [1156. Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring)
+* [1156. Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring)  
+&nbsp;  
 * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node)
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)
-* [730. Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences)
+* [730. Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences)  
+&nbsp;  
+* [1247. Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal)
+* [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)
+* [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
 
 ## Sql
 
@@ -477,5 +507,7 @@
 * [x] - [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)
 * [x] - [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)  
 * [x] - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+* [x] - [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)
+* [ ] - [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
 
 </details>
