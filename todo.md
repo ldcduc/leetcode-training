@@ -508,6 +508,6 @@
 * [x] - [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)  
 * [x] - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 * [x] - [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)
-* [ ] - [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
+* [x] - [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
 
 </details>
