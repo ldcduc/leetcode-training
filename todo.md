@@ -96,7 +96,11 @@
 &nbsp;  
 * [1247. Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal)
 * [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)
-* [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
+* [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)  
+&nbsp;  
+* [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+* [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one)
+* [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2)
 
 ## Sql
 
@@ -509,5 +513,6 @@
 * [x] - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 * [x] - [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)
 * [x] - [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
+* [x] - [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers)
 
 </details>
