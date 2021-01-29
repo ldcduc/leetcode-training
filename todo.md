@@ -514,5 +514,7 @@
 * [x] - [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)
 * [x] - [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
 * [x] - [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers)
+* [x] - [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value)
+* [ ] - [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
 
 </details>
