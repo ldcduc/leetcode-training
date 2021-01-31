@@ -518,5 +518,6 @@
 &nbsp;  
 * [x] - [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
 * [ ] - [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array)
+* [ ] - [31. Next Permutation](https://leetcode.com/problems/next-permutation)
 
 </details>
