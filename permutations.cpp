@@ -14,6 +14,6 @@ public:
 };
 /*
  * Comment by ldcduc
- * Suggested tags: permutation
+ * Suggested tags: array, permutation
  * 
  * */
