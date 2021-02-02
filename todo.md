@@ -518,6 +518,15 @@
 &nbsp;  
 * [x] - [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
 * [ ] - [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array)
-* [ ] - [31. Next Permutation](https://leetcode.com/problems/next-permutation)
+* [x] - [31. Next Permutation](https://leetcode.com/problems/next-permutation)
 
 </details>
+
+### February
+
+<details close><summary>January</summary>
+
+* [x] - [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
+
+</details>
+
