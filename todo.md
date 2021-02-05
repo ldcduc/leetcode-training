@@ -517,7 +517,7 @@
 * [x] - [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value)  
 &nbsp;  
 * [x] - [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
-* [ ] - [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array)
+* [x] - [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array)
 * [x] - [31. Next Permutation](https://leetcode.com/problems/next-permutation)
 
 </details>
@@ -527,6 +527,10 @@
 <details close><summary>January</summary>
 
 * [x] - [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
+* [x] - [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)
+* [x] - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+* [x] - [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)
+* [x] - [71. Simplify Path](https://leetcode.com/problems/simplify-path)
 
 </details>
 
