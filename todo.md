@@ -2,8 +2,6 @@
 
 ## Easy problems
 
-* [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
-* [575. Distribute Candies](https://leetcode.com/problems/distribute-candies)
 * [690. Employee Importance](https://leetcode.com/problems/employee-importance)
 * [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation)
 * [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)  
@@ -20,10 +18,8 @@
 ## Medium problems
 
 * [**16. 3Sum Closest**](https://leetcode.com/problems/3sum-closest)
-* [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors)
 * [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)
-* [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii)
 * [223. Rectangle Area](https://leetcode.com/problems/rectangle-area)
 * [375. Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii)
 * [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv)
@@ -531,6 +527,7 @@
 * [x] - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 * [x] - [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)
 * [x] - [71. Simplify Path](https://leetcode.com/problems/simplify-path)
+* [x] - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 
 </details>
 
