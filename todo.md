@@ -528,6 +528,13 @@
 * [x] - [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)
 * [x] - [71. Simplify Path](https://leetcode.com/problems/simplify-path)
 * [x] - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
+* [x] - [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)  
+&nbsp;  
+* [x] - [Peeking Iterator](https://leetcode.com/problems/peeking-iterator)
+* [x] - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)
+* [x] - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
+* [x] - [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+
 
 </details>
 
