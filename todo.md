@@ -535,6 +535,9 @@
 * [x] - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
 * [x] - [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 * [x] - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
+* [x] - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)
+* [x] - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)  
+&nbsp;  
 
 
 </details>
