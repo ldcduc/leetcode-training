@@ -538,6 +538,7 @@
 * [x] - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)
 * [x] - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)  
 &nbsp;  
+* [x] - [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)
 
 
 </details>
