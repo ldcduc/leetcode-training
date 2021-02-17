@@ -2,6 +2,23 @@
  * Code by: ldcduc
  * */
 /* Begin of Solution */
+class BinarySearchSolution {
+public:
+    bool isPerfectSquare(int num) {
+        int l = 1, r = num;
+        while (l <= r) {
+            int m = (1ll * l + r) >> 1;
+            if (1ll * m * m > num) {
+                r = m - 1;
+            } else if (1ll * m * m == num) {
+                return true;
+            } else {
+                l = m + 1;
+            }
+        }
+        return false;
+    }
+};
 class Solution {
 public:
     int mySqrt(int x) {

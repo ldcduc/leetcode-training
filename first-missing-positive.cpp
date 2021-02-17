@@ -21,6 +21,6 @@ public:
 };
 /*
  * Comment by ldcduc
- * Suggested tags:
+ * Suggested tags: array
  *
  * */
