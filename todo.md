@@ -539,6 +539,12 @@
 * [x] - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)  
 &nbsp;  
 * [x] - [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)
+* [ ] - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)
+* [ ] - [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+* [x] - [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)
+* [x] - [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)
+* [x] - [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+
 
 
 </details>
