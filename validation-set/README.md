@@ -136,45 +136,46 @@
 
 # Binary Search
 
-* [ ] - [Binary Search](https://leetcode.com/problems/binary-search)
+* [x] - [Binary Search](https://leetcode.com/problems/binary-search)
 
 ## Template I
 
-* [ ] - [Sqrt(x)](https://leetcode.com/problems/sqrtx)
-* [ ] - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)
-* [ ] - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+* [x] - [Sqrt(x)](https://leetcode.com/problems/sqrtx)
+* [x] - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)
+* [x] - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 
 ## Template II
 
-* [ ] - [First Bad Version](https://leetcode.com/problems/first-bad-version)
-* [ ] - [Find Peak Element](https://leetcode.com/problems/find-peak-element)
-* [ ] - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+* [x] - [First Bad Version](https://leetcode.com/problems/first-bad-version)
+* [x] - [Find Peak Element](https://leetcode.com/problems/find-peak-element)
+* [x] - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 
 ## Template III
 
-* [ ] - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
-* [ ] - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)
-* [ ] - [Find Peak Element](https://leetcode.com/problems/find-peak-element)
+* [x] - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+* [x] - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)
+* [x] - [Find Peak Element](https://leetcode.com/problems/find-peak-element)
 
 ## Conclusion
 
-* [ ] - [Pow(x, n)](https://leetcode.com/problems/powx-n)
-* [ ] - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
+* [x] - [Pow(x, n)](https://leetcode.com/problems/powx-n)
+* [x] - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
+* [x] - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)
 
 ## More Practices
 
 * [ ] - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 * [ ] - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)
-* [ ] - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
-* [ ] - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
+* [x] - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
+* [x] - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
 * [ ] - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 
 ## More Practices II
 
 * [ ] - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
 * [ ] - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
-* [ ] - [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance)
-* [ ] - [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)
+* [x] - [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance)
+* [x] - [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)
 
 <hr>
 
