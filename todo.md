@@ -569,5 +569,8 @@
 * [ ] - [Design HashMap](https://leetcode.com/problems/design-hashmap)  
 &nbsp;  
 * [ ] - [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences)
+* [ ] - [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree)
+* [ ] - [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
+* [ ] - [Coin Change](https://leetcode.com/problems/coin-change)
 
 </details>
