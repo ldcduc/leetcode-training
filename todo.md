@@ -544,7 +544,12 @@
 * [x] - [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)
 * [x] - [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)
 * [x] - [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
-
+* [x] - [Broken Calculator](https://leetcode.com/problems/broken-calculator)  
+&nbsp;  
+* [ ] - [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)
+* [ ] - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)
+* [ ] - [Score of Parentheses](https://leetcode.com/problems/score-of-parenthesesF)
+* [ ] - [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)
 
 
 </details>
