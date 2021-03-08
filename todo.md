@@ -566,5 +566,8 @@
 * [x] - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
 * [ ] - [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)
 * [ ] - [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words)
+* [ ] - [Design HashMap](https://leetcode.com/problems/design-hashmap)  
+&nbsp;  
+* [ ] - [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences)
 
 </details>
