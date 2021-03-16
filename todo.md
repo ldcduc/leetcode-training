@@ -576,6 +576,7 @@
 * [ ] - [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors)
 * [ ] - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list)  
 &nbsp;  
-* [ ] - [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)
+* [ ] - [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)  
+* [ ] - [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)
 
 </details>
