@@ -582,6 +582,13 @@
 * [ ] - [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)
 * [ ] - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
 * [ ] - [Design Underground System](https://leetcode.com/problems/design-underground-system)
+* [ ] - [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-20)  
+&nbsp;  
+* [ ] - [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker)
+* [ ] - [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity)
+* [ ] - [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle)
+* [ ] - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)
+
 
 </details>
 
