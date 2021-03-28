@@ -584,10 +584,15 @@
 * [ ] - [Design Underground System](https://leetcode.com/problems/design-underground-system)
 * [ ] - [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-20)  
 &nbsp;  
-* [ ] - [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker)
-* [ ] - [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity)
-* [ ] - [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle)
-* [ ] - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)
+* [ ] - [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker)  
+* [ ] - [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity)  
+* [ ] - [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle)  
+* [ ] - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)  
+* [ ] - [Word Subsets](https://leetcode.com/problems/word-subsets)  
+* [ ] - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)  
+* [ ] - [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english)  
+&nbsp;  
+* [ ] - [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal)
 
 
 </details>
