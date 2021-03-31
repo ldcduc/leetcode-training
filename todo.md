@@ -604,6 +604,7 @@
 <details close><summary>April</summary>
 
 * [x] - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+* [ ] - [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes)
 
 </details>
 
