@@ -605,6 +605,7 @@
 
 * [x] - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
 * [ ] - [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes)
+* [ ] - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
 
 </details>
 
