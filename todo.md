@@ -582,3 +582,12 @@
 * [ ] - [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)
 
 </details>
+
+### April
+
+<details close><summary>April</summary>
+
+* [x] - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+
+</details>
+
