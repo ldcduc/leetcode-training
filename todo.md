@@ -608,6 +608,7 @@
 * [ ] - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
 * [ ] - [Design Circular Queue](https://leetcode.com/problems/design-circular-queue)
 * [ ] - [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions)
+* [ ] - [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal)
 
 </details>
 
