@@ -617,6 +617,7 @@
 * [ ] - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)
 * [ ] - [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii)
 * [ ] - [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)
+* [ ] - [Partition List](https://leetcode.com/problems/partition-list)  
 
 </details>
 
