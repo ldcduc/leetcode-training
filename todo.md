@@ -620,6 +620,7 @@
 * [ ] - [Partition List](https://leetcode.com/problems/partition-list)  
 &nbsp;  
 * [ ] - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
+* [ ] - [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)
 
 </details>
 
