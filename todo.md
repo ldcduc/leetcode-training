@@ -627,6 +627,7 @@
 * [ ] - [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)
 * [ ] - [Triangle](https://leetcode.com/problems/triangle)  
 &nbsp;  
+* [ ] - [Brick Wall](https://leetcode.com/problems/brick-wall)
 
 </details>
 
