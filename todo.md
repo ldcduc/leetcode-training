@@ -628,6 +628,7 @@
 * [ ] - [Triangle](https://leetcode.com/problems/triangle)  
 &nbsp;  
 * [ ] - [Brick Wall](https://leetcode.com/problems/brick-wall)
+* [ ] - [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)
 
 </details>
 
