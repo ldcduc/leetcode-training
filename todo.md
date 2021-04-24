@@ -630,6 +630,7 @@
 * [ ] - [Brick Wall](https://leetcode.com/problems/brick-wall)
 * [ ] - [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)
 * [ ] - [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network)
+* [ ] - [Rotate Image](https://leetcode.com/problems/rotate-image)
 
 </details>
 
