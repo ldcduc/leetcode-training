@@ -631,6 +631,7 @@
 * [ ] - [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)
 * [ ] - [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network)
 * [ ] - [Rotate Image](https://leetcode.com/problems/rotate-image)
+* [ ] - [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach)
 
 </details>
 
