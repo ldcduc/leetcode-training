@@ -636,6 +636,7 @@
 * [ ] - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)  
 &nbsp;  
 * [ ] - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+* [ ] - [Powerful Integers](https://leetcode.com/problems/powerful-integers)  
 
 </details>
 
