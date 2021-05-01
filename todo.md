@@ -645,5 +645,6 @@
 <details close><summary>May</summary>
 
 * [ ] - [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)
+* [ ] - [Course Schedule III](https://leetcode.com/problems/course-schedule-iii)
 
 </details>
