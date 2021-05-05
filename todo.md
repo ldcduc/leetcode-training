@@ -649,5 +649,6 @@
 * [ ] - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)
 * [ ] - [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)
 * [ ] - [Jump Game II](https://leetcode.com/problems/jump-game-ii)
+* [ ] - [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)
 
 </details>
