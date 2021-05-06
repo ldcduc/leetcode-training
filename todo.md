@@ -650,5 +650,6 @@
 * [ ] - [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)
 * [ ] - [Jump Game II](https://leetcode.com/problems/jump-game-ii)
 * [ ] - [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)
+* [ ] - [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings)
 
 </details>
