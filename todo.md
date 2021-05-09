@@ -653,5 +653,6 @@
 * [ ] - [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings)  
 &nbsp;  
 * [ ] - [Super Palindromes](https://leetcode.com/problems/super-palindromes)
+* [ ] - [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)  
 
 </details>
