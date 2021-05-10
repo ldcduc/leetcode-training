@@ -654,5 +654,6 @@
 &nbsp;  
 * [ ] - [Super Palindromes](https://leetcode.com/problems/super-palindromes)
 * [ ] - [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)  
+* [ ] - [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)  
 
 </details>
