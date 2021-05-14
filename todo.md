@@ -658,5 +658,7 @@
 * [ ] - [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates)  
 * [ ] - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)  
 * [ ] - [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)  
+* [ ] - [Count Primes](https://leetcode.com/problems/count-primes)  
+&nbsp;  
 
 </details>
