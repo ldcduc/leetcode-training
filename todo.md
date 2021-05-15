@@ -653,12 +653,13 @@
 * [ ] - [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings)  
 &nbsp;  
 * [ ] - [Super Palindromes](https://leetcode.com/problems/super-palindromes)
+* [ ] - [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)  
+* [ ] - [Count Primes](https://leetcode.com/problems/count-primes)  
 * [ ] - [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)  
 * [ ] - [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)  
 * [ ] - [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates)  
 * [ ] - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)  
-* [ ] - [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)  
-* [ ] - [Count Primes](https://leetcode.com/problems/count-primes)  
 &nbsp;  
+* [ ] - [Valid Number](https://leetcode.com/problems/valid-number)  
 
 </details>
