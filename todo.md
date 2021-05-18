@@ -663,5 +663,6 @@
 * [ ] - [Valid Number](https://leetcode.com/problems/valid-number)  
 * [ ] - [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)  
 * [ ] - [Longest String Chain](https://leetcode.com/problems/longest-string-chain)  
+* [ ] - [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)  
 
 </details>
