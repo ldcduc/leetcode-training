@@ -666,5 +666,6 @@
 * [ ] - [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)  
 * [ ] - [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)  
 * [ ] - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  
+* [ ] - [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern)  
 
 </details>
