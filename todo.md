@@ -669,5 +669,6 @@
 * [ ] - [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern)  
 &nbsp;  
 * [ ] - [N-Queens](Maximum Erasure Value)  
+* [ ] - [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring)  
 
 </details>
