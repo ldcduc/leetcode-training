@@ -671,5 +671,6 @@
 * [ ] - [N-Queens](Maximum Erasure Value)  
 * [ ] - [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring)  
 * [ ] - [To Lower Case](https://leetcode.com/problems/to-lower-case)  
+* [ ] - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)  
 
 </details>
