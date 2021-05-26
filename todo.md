@@ -672,5 +672,6 @@
 * [ ] - [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring)  
 * [ ] - [To Lower Case](https://leetcode.com/problems/to-lower-case)  
 * [ ] - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)  
+* [ ] - [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)  
 
 </details>
