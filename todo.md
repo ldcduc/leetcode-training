@@ -675,5 +675,7 @@
 * [ ] - [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)  
 * [ ] - [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)  
 * [ ] - [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value)  
+&nbsp;  
+* [ ] - [N-Queens II](https://leetcode.com/problems/n-queens-ii)  
 
 </details>
