@@ -677,5 +677,6 @@
 * [ ] - [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value)  
 &nbsp;  
 * [ ] - [N-Queens II](https://leetcode.com/problems/n-queens-ii)  
+* [ ] - [Maximum Gap](https://leetcode.com/problems/maximum-gap)  
 
 </details>
