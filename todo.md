@@ -176,7 +176,7 @@
 * [ ] - [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition)
 * [ ] - [338. Counting Bits](https://leetcode.com/problems/counting-bits)  
 &nbsp;
-* [ ] - [207. Course Schedule](https://leetcode.com/problems/course-schedule)
+* [x] - [207. Course Schedule](https://leetcode.com/problems/course-schedule)
 * [ ] - [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)
 * [ ] - [72. Edit Distance](https://leetcode.com/problems/edit-distance)
 
@@ -246,7 +246,7 @@
 * [ ] - [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
 * [ ] - [50. Pow(x, n)](https://leetcode.com/problems/powx-n)
 * [ ] - [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
-* [ ] - [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
+* [x] - [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
 * [ ] - [67. Add Binary](https://leetcode.com/problems/add-binary)
 * [ ] - [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
 * [ ] - [79. Word Search](https://leetcode.com/problems/word-search)  
@@ -646,7 +646,7 @@
 
 * [ ] - [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)
 * [ ] - [Course Schedule III](https://leetcode.com/problems/course-schedule-iii)
-* [ ] - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)
+* [x] - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)
 * [ ] - [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)
 * [ ] - [Jump Game II](https://leetcode.com/problems/jump-game-ii)
 * [ ] - [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)
@@ -676,7 +676,7 @@
 * [ ] - [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)  
 * [ ] - [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value)  
 &nbsp;  
-* [ ] - [N-Queens II](https://leetcode.com/problems/n-queens-ii)  
+* [x] - [N-Queens II](https://leetcode.com/problems/n-queens-ii)  
 * [ ] - [Maximum Gap](https://leetcode.com/problems/maximum-gap)  
 * [ ] - [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)  
 
