@@ -681,3 +681,11 @@
 * [ ] - [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)  
 
 </details>
+
+### June
+
+<details close><summary>June</summary>
+
+* [ ] - [Max Area of Island](https://leetcode.com/problems/max-area-of-island)
+
+</details>
