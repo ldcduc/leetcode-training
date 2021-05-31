@@ -678,5 +678,6 @@
 &nbsp;  
 * [ ] - [N-Queens II](https://leetcode.com/problems/n-queens-ii)  
 * [ ] - [Maximum Gap](https://leetcode.com/problems/maximum-gap)  
+* [ ] - [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)  
 
 </details>
