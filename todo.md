@@ -689,5 +689,6 @@
 * [ ] - [Max Area of Island](https://leetcode.com/problems/max-area-of-island)
 * [ ] - [Interleaving String](https://leetcode.com/problems/interleaving-string)
 * [ ] - [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
+* [ ] - [Open the Lock](https://leetcode.com/problems/open-the-lock)
 
 </details>
