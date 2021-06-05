@@ -691,5 +691,6 @@
 * [ ] - [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
 * [ ] - [Open the Lock](https://leetcode.com/problems/open-the-lock)
 * [ ] - [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team)
+* [ ] - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 
 </details>
