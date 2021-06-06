@@ -692,5 +692,6 @@
 * [ ] - [Open the Lock](https://leetcode.com/problems/open-the-lock)
 * [ ] - [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team)
 * [ ] - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
+* [ ] - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
 
 </details>
