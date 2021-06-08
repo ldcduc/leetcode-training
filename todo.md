@@ -695,5 +695,6 @@
 * [ ] - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
 &nbsp;  
 * [ ] - [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)  
+* [ ] - [Jump Game VI](https://leetcode.com/problems/jump-game-vi)  
 
 </details>
