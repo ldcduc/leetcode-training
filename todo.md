@@ -699,5 +699,6 @@
 * [ ] - [My Calendar I](https://leetcode.com/problems/my-calendar-i)  
 * [ ] - [Stone Game VII](https://leetcode.com/problems/stone-game-vii)  
 * [ ] - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)  
+* [ ] - [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs)  
 
 </details>
