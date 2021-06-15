@@ -703,5 +703,6 @@
 * [ ] - [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck)  
 &nbsp;  
 * [ ] - [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square)  
+* [ ] - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)  
 
 </details>
