@@ -705,5 +705,6 @@
 * [ ] - [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square)  
 * [ ] - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)  
 * [ ] - [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)  
+* [ ] - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)  
 
 </details>
