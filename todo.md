@@ -707,5 +707,6 @@
 * [ ] - [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)  
 * [ ] - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)  
 * [ ] - [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array)  
+* [ ] - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)  
 
 </details>
