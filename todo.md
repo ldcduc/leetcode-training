@@ -708,5 +708,6 @@
 * [ ] - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)  
 * [ ] - [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array)  
 * [ ] - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)  
+* [ ] - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)  
 
 </details>
