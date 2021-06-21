@@ -709,5 +709,7 @@
 * [ ] - [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array)  
 * [ ] - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)  
 * [ ] - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)  
+&nbsp;  
+* [ ] - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences)  
 
 </details>
