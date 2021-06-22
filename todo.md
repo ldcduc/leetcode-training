@@ -711,5 +711,6 @@
 * [ ] - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)  
 &nbsp;  
 * [ ] - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences)  
+* [ ] - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)  
 
 </details>
