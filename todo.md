@@ -713,5 +713,6 @@
 * [ ] - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences)  
 * [ ] - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)  
 * [ ] - [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths)  
+* [ ] - [Redundant Connection](https://leetcode.com/problems/redundant-connection)  
 
 </details>
