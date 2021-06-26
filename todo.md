@@ -715,5 +715,6 @@
 * [ ] - [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths)  
 * [ ] - [Redundant Connection](https://leetcode.com/problems/redundant-connection)  
 * [ ] - [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)  
+* [ ] - [Candy](https://leetcode.com/problems/candy)  
 
 </details>
