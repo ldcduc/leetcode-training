@@ -716,5 +716,7 @@
 * [ ] - [Redundant Connection](https://leetcode.com/problems/redundant-connection)  
 * [ ] - [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)  
 * [ ] - [Candy](https://leetcode.com/problems/candy)  
+* [ ] - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)  
+&nbsp;  
 
 </details>
