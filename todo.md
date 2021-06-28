@@ -718,5 +718,6 @@
 * [ ] - [Candy](https://leetcode.com/problems/candy)  
 * [ ] - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)  
 &nbsp;  
+* [ ] - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)  
 
 </details>
