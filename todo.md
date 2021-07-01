@@ -728,5 +728,6 @@
 <details close><summary>July</summary>
 
 * [ ] - [Gray Code](https://leetcode.com/problems/gray-code)  
+* [ ] - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)  
 
 </details>
