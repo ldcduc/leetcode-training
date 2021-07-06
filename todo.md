@@ -733,5 +733,7 @@
 * [ ] - [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation)  
 * [ ] - [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)  
 * [ ] - [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half)  
+* [ ] - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)  
+&nbsp;    
 
 </details>
