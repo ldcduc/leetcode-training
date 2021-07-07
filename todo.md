@@ -735,5 +735,6 @@
 * [ ] - [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half)  
 * [ ] - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)  
 &nbsp;    
+* [ ] - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray)  
 
 </details>
