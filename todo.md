@@ -725,6 +725,7 @@
 
 ### July
 
+
 <details close><summary>July</summary>
 
 * [ ] - [Gray Code](https://leetcode.com/problems/gray-code)  
@@ -736,5 +737,6 @@
 * [ ] - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)  
 &nbsp;    
 * [ ] - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray)  
+* [ ] - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  
 
 </details>
