@@ -612,6 +612,7 @@
 * [ ] - [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)  
 &nbsp;  
 * [ ] - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
+* [ ] - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary)
 
 </details>
 
