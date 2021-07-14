@@ -743,5 +743,6 @@
 * [ ] - [Find Peak Element](https://leetcode.com/problems/find-peak-element)  
 * [ ] - [Custom Sort String](https://leetcode.com/problems/custom-sort-string)  
 &nbsp;    
+* [ ] - [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number)  
 
 </details>
