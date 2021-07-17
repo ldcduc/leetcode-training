@@ -746,5 +746,6 @@
 * [ ] - [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number)  
 * [ ] - [4Sum](https://leetcode.com/problems/4sum)  
 * [ ] - [Three Equal Parts](https://leetcode.com/problems/three-equal-parts)  
+* [ ] - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  
 
 </details>
