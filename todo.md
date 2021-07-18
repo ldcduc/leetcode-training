@@ -747,5 +747,6 @@
 * [ ] - [4Sum](https://leetcode.com/problems/4sum)  
 * [ ] - [Three Equal Parts](https://leetcode.com/problems/three-equal-parts)  
 * [ ] - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  
+* [ ] - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)  
 
 </details>
