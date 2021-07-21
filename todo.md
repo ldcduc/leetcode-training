@@ -751,5 +751,6 @@
 * [ ] - [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array)  
 * [ ] - [Push Dominoes](https://leetcode.com/problems/push-dominoes)  
 &nbsp;    
+* [ ] - [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)  
 
 </details>
