@@ -752,5 +752,6 @@
 * [ ] - [Push Dominoes](https://leetcode.com/problems/push-dominoes)  
 &nbsp;    
 * [ ] - [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)  
+* [ ] - [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning)  
 
 </details>
