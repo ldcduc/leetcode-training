@@ -755,5 +755,6 @@
 * [ ] - [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning)  
 * [ ] - [Word Ladder II](https://leetcode.com/problems/word-ladder-ii)  
 * [ ] - [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones)  
+* [ ] - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)  
 
 </details>
