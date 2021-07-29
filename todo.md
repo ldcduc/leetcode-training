@@ -759,5 +759,6 @@
 * [ ] - [3Sum Closest](https://leetcode.com/problems/3sum-closest)  
 * [ ] - [Beautiful Array](https://leetcode.com/problems/beautiful-array)  
 &nbsp;  
+* [ ] - [01 Matrix](https://leetcode.com/problems/01-matrix)  
 
 </details>
