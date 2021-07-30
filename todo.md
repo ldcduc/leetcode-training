@@ -760,5 +760,6 @@
 * [ ] - [Beautiful Array](https://leetcode.com/problems/beautiful-array)  
 &nbsp;  
 * [ ] - [01 Matrix](https://leetcode.com/problems/01-matrix)  
+* [ ] - [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)  
 
 </details>
