@@ -772,6 +772,10 @@
 * [x] - [Making A Large Island](https://leetcode.com/problems/making-a-large-island)   
 * [x] - [Two Sum](https://leetcode.com/problems/two-sum)  
 * [x] - [Subsets II](https://leetcode.com/problems/subsets-ii)  
-* [ ] - [Path Sum II](https://leetcode.com/problems/path-sum-ii)  
+* [x] - [Path Sum II](https://leetcode.com/problems/path-sum-ii)  
+* [x] - [Stone Game](https://leetcode.com/problems/stone-game)  
+* [x] - [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)  
+* [ ] - [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)  
+&nbsp;  
 
 </details>
