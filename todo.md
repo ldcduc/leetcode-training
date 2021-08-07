@@ -777,5 +777,6 @@
 * [x] - [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)  
 * [ ] - [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)  
 &nbsp;  
+* [ ] - [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix)  
 
 </details>
