@@ -778,5 +778,6 @@
 * [ ] - [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)  
 &nbsp;  
 * [ ] - [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix)  
+* [ ] - [Add Strings](https://leetcode.com/problems/add-strings)  
 
 </details>
