@@ -783,5 +783,7 @@
 * [ ] - [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs)  
 * [ ] - [Group Anagrams](https://leetcode.com/problems/group-anagrams)  
 * [ ] - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  
+* [ ] - [Remove Boxes](https://leetcode.com/problems/remove-boxes)  
+&nbsp;  
 
 </details>
