@@ -786,5 +786,7 @@
 * [ ] - [Remove Boxes](https://leetcode.com/problems/remove-boxes)  
 &nbsp;  
 * [ ] - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)  
+* [ ] - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)  
+* [ ] - [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)  
 
 </details>
