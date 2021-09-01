@@ -788,5 +788,20 @@
 * [ ] - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)  
 * [ ] - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)  
 * [ ] - [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)  
+* [ ] - [Decode Ways](https://leetcode.com/problems/decode-ways)  
+* [ ] - [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree)  
+* [ ] - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver)  
+&nbsp;  
+* [ ] - [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii)  
+* [ ] - [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)  
+* [ ] - [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication)  
+* [ ] - [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)  
+* [ ] - [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)  
+* [ ] - [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii)  
+* [ ] - [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)  
+&nbsp;  
+* [ ] - [Patching Array](Patching Array)  
+* [ ] - [Range Addition II](https://leetcode.com/problems/range-addition-ii)  
+* [ ] - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  
 
 </details>
