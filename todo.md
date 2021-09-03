@@ -800,8 +800,19 @@
 * [ ] - [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii)  
 * [ ] - [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)  
 &nbsp;  
-* [ ] - [Patching Array](Patching Array)  
+* [ ] - [Patching Array](https://leetcode.com/problems/patching-array)  
 * [ ] - [Range Addition II](https://leetcode.com/problems/range-addition-ii)  
 * [ ] - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  
 
 </details>
+
+### September
+
+<details close><summary>September</summary>
+
+* [ ] - [Array Nesting](https://leetcode.com/problems/array-nesting)  
+* [ ] - [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)  
+* [ ] - [Erect the Fence](https://leetcode.com/problems/erect-the-fence)  
+
+</details>
+
