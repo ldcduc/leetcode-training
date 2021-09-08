@@ -815,6 +815,10 @@
 * [ ] - [Erect the Fence](https://leetcode.com/problems/erect-the-fence)  
 * [x] - [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)  
 * [x] - [Orderly Queue](https://leetcode.com/problems/orderly-queue)  
+* [ ] - [Slowest Key](https://leetcode.com/problems/slowest-key)
+* [ ] - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  
+&nbsp;  
+* [ ] - [Shifting Letters](https://leetcode.com/problems/shifting-letters)  
 
 </details>
 
