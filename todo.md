@@ -819,6 +819,8 @@
 * [ ] - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  
 &nbsp;  
 * [ ] - [Shifting Letters](https://leetcode.com/problems/shifting-letters)  
+* [ ] - [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign)  
+* [ ] - [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)  
 
 </details>
 
