@@ -815,12 +815,14 @@
 * [ ] - [Erect the Fence](https://leetcode.com/problems/erect-the-fence)  
 * [x] - [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)  
 * [x] - [Orderly Queue](https://leetcode.com/problems/orderly-queue)  
-* [ ] - [Slowest Key](https://leetcode.com/problems/slowest-key)
+* [x] - [Slowest Key](https://leetcode.com/problems/slowest-key)
 * [ ] - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  
 &nbsp;  
 * [ ] - [Shifting Letters](https://leetcode.com/problems/shifting-letters)  
 * [ ] - [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign)  
 * [ ] - [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)  
+* [ ] - [Basic Calculator](https://leetcode.com/problems/basic-calculator)  
+* [ ] - [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)  
 
 </details>
 
