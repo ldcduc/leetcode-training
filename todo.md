@@ -824,6 +824,9 @@
 * [ ] - [Basic Calculator](https://leetcode.com/problems/basic-calculator)  
 * [ ] - [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)  
 * [ ] - [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons)  
+* [ ] - [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)
+&nbsp;  
+* [ ] - [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray)  
 
 </details>
 
