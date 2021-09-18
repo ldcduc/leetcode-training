@@ -829,6 +829,7 @@
 * [ ] - [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray)  
 * [ ] - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)  
 * [ ] - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)  
+* [ ] - [Expression Add Operators](https://leetcode.com/problems/expression-add-operators)  
 
 </details>
 
